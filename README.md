@@ -20,7 +20,9 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-
+ flex-add
+这是一个关于flexbox基础的骰子布局
+ [demo](https://github.com/Swordguy/Swordguy.github.io/blob/master/index.html)
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
